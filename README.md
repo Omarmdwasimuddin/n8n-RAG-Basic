@@ -12,5 +12,5 @@
 #### click: Embedding Document er + sign---> click: Default Data Loader
 ![](https://imgur.com/2C3YPMf.png)
 
-#### click: Simple Vector Stor er +sign---> search & click: ai agent---> value set koro---> click koro: 
+#### click: Simple Vector Stor er +sign---> search & click: ai agent---> value set koro---> click koro: Chat Model--->
 ![](https://imgur.com/AqlnBAQ.png)
