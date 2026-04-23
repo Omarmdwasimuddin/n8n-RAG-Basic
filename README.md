@@ -15,3 +15,4 @@
 #### click: Simple Vector Stor er +sign---> search & click: ai agent---> value set koro---> click koro: Chat Model--->click: Google Gemini Chat Model---> click: Memory +sign---> click: Simple Memory---> value set koro. ---> Tool er +sign click koro---> search & click: Simple Vector Store---> 
 ![](https://imgur.com/AqlnBAQ.png)
 ![](https://imgur.com/lBg9gXD.png)
+![](https://imgur.com/zg3fLih.png)
