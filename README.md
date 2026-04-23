@@ -19,3 +19,6 @@
 
 #### click: AI Agent er +sign ---> search & click: Respond to Webhook---> value set koro.
 ![](https://imgur.com/hFyQ7Ba.png)
+
+#### Update koro: Webhook---> Respond: Using 'Respond to Webhook' Node 
+![](https://imgur.com/hFyQ7Ba.png)
