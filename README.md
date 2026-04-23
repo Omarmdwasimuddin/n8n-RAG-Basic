@@ -5,5 +5,6 @@
 #### click: Webhook er +sign---> search & click: Extract from File---> click: Extract from File---> value set koro---> click: Execute workflow
 ![](https://imgur.com/7gtk5Hw.png)
 
-#### click: Extract from File er +sign---> search & click: Simple Vector Store---> click: Add documents to vactor store---> value set koro---> click koro: Embedding er + sign---> 
+#### click: Extract from File er +sign---> search & click: Simple Vector Store---> click: Add documents to vactor store---> value set koro---> click koro: Embedding er + sign---> click koro: Embeddings Google Gemini
+![](https://imgur.com/00gILOE.png)
 ![](https://imgur.com/undefined.png)
