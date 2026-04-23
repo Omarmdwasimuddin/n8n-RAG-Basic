@@ -9,5 +9,5 @@
 ![](https://imgur.com/00gILOE.png)
 ![](https://imgur.com/So4QzGp.png)
 
-#### click: Embedding Document er + sign---> click: Default Data Loader--->
-![](https://imgur.com/00gILOE.png)
+#### click: Embedding Document er + sign---> click: Default Data Loader
+![](https://imgur.com/2C3YPMf.png)
