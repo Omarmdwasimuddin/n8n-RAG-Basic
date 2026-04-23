@@ -11,3 +11,6 @@
 
 #### click: Embedding Document er + sign---> click: Default Data Loader
 ![](https://imgur.com/2C3YPMf.png)
+
+#### click: Simple Vector Stor er +sign---> search & click: ai agent--->
+![](https://imgur.com/2C3YPMf.png)
