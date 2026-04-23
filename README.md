@@ -7,4 +7,4 @@
 
 #### click: Extract from File er +sign---> search & click: Simple Vector Store---> click: Add documents to vactor store---> value set koro---> click koro: Embedding er + sign---> click koro: Embeddings Google Gemini
 ![](https://imgur.com/00gILOE.png)
-![](https://imgur.com/undefined.png)
+![](https://imgur.com/So4QzGp.png)
