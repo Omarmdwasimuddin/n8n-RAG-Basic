@@ -16,3 +16,6 @@
 ![](https://imgur.com/AqlnBAQ.png)
 ![](https://imgur.com/lBg9gXD.png)
 ![](https://imgur.com/zg3fLih.png)
+
+#### click: AI Agent er +sign ---> search & click: Respond to Webhook---> value set koro.
+![](https://imgur.com/hFyQ7Ba.png)
